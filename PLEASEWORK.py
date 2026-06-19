@@ -32,7 +32,7 @@ class SimonCuadrado(QWidget):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle("Simon Cuadrado")
+        self.setWindowTitle("Simon")
         self.setStyleSheet("background-color: #1A1A1A;") # Fondo gris oscuro continuo
 
         # Layout de cuadrícula estricta
